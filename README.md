@@ -11,5 +11,10 @@ It's my first mini project in rust. Simple guessing number game. You need to gue
    ```bash
    git clone https://github.com/Szafter12/Guessing_game
    cd Guessing_game
+2. Build the project:
+   ```bash
    cargo build --release
+3. Run game:
+   ```bash
    cargo run
+   
